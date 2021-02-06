@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**vladperchi/vladperchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Vladimir P. CHibás, un ingeniero de software con sede en Cali, Colombia, me especializo en la creación de aplicaciones Web, API y aplicaciones de escritorio usando (ASP) .NET Core y Stack relacionado con arquitectura limpia y buenas practicas.
 
-Here are some ideas to get you started:
+- 😎 Currently working on [ASP.NET Core 5.0 (MVC & WebAPI) Clean Architecture Boilerplate](https://github.com/aspnetcorehero/Boilerplate)
+- 🌱 I write detailed articles, tutorials and guides for ASP.NET Core at my blog [codewithmukesh](http://www.codewithmukesh.com).
+- 🤔 I’m pretty active on [twitter](https://twitter.com/vladperchi).
+- 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/vladperchi).
+- 😄 Pronouns: he/him/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vladperchi" alt="vladperchi" /> </p>
+
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=vladperchi&show_icons=false" alt="vladperchi" />
+ </p>
