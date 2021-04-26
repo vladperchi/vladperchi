@@ -8,5 +8,5 @@ Soy Vladimir, un desarrollador .NET con sede en Cali, Colombia, proactivo y crea
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladperchi" alt="vladperchi" /> </p>
 
 <p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=vladperchi&show_icons=true&theme=tokyonight" alt="vladperchi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vladperchi&show_icons=true&theme=One Dark Pro" alt="vladperchi" />
  </p>
