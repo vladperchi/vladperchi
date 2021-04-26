@@ -12,6 +12,6 @@ Soy Vladimir, un desarrollador .NET con sede en Cali, Colombia, proactivo y crea
   <img src="https://github-readme-stats.vercel.app/api?username=vladperchi&show_icons=true&theme=One Dark Pro" alt="vladperchi" />
 </p>
 <p align="left">  
-  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladperchi&layout=compact&theme=tokyonight)(https://github.com/vladperchi/github-readme-stats" alt="vladperchi" />
 </p>
  
