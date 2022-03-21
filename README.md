@@ -1,5 +1,3 @@
-### Hola 👋
-
 <h1 align="center">Hi there, I'm Vladimir P. CHibás 👋</h1>
 
 <p align="center">
