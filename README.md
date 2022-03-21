@@ -39,6 +39,7 @@ I always find enough time for open source contribution which also helps me to ex
 - 📫 Follow me on Twitter [@vladperchi][twitter-url] / [@codewithvladperchi][twitter-code-url]
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@vladperchi][linkedin-url]
 - 🦸 Career goal: to work abroad, probably in the USA / Europe with a world-class team for a great product!
+<br/>
 
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=vladperchi&show_icons=true&theme=tokyonight" alt="Vladperchi Github Stats" />
