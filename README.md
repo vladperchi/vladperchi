@@ -48,15 +48,21 @@ I always find enough time for open source contribution which also helps me to ex
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
+  <!--<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
+  </a>-->
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="">
+  <a href="https://www.typescriptlang.org">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
-  <a href="https://hub.docker.com/">
+  <!--<a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
+  </a>-->
+  <!--<a href="https://www.rabbitmq.com">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  </a>-->
   <a href="https://www.github.com">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
   </a>
