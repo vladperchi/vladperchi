@@ -39,7 +39,7 @@ I always find enough time for open source contribution which also helps me to ex
 - 🦸 Career goal: Working abroad, probably in the USA / Europe with a world-class team for a great product!
 <br/>
 
-<h4 align="center">Professional skills</h4>
+<h1 align="center">Professional skills</h1>
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
