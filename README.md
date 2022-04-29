@@ -21,23 +21,24 @@
  </a>
 </p>
 
-
-Software engineer specialized in building .NET web applications based in Cali, Colombia, proactive and creative. For frontend, I love to build WebApplication using Angular and MVC/Razor or Blazor. As for the backend, I work with ASP.NET Core WebAPIs and related Stack following Clean Architecture Principles and good coding practices.
+> Software engineer specialized in building .NET web applications based in Cali, Colombia, proactive and creative. For frontend, I love to build WebApplication using Angular and MVC/Razor or Blazor. As for the backend, I work with ASP.NET Core WebAPIs and related Stack following Clean Architecture Principles and good coding practices.
 
 #### 💻 Open Source Contributions
 
 I always find enough time for open source contribution which also helps me to expand my knowledge and have the opportunity to work with other world-class developers and teams.
 
-- 💥 [InmoIT - ASP.NET Core 5.0 WebAPI Modular Architecture][InmoIT]: A clean modular architecture implementation with ASP.NET Core 5 WebApi and loads of features and many best practices.
-- 💥 [CsvImporter - ASP.NET Core 3.1 Console][CsvImporter]: A.NET Core console solution in C# that reads a .CSV file stored in an Azure storage account and inserts its content into a local SQL Server DB.
+- 💥 [InmoIT - ASP.NET Core 5.0 WebAPI Modular Architecture][inmoit]: A clean modular architecture implementation with ASP.NET Core 5 WebApi and loads of features and many best practices.
+- 💥 [CsvImporter - ASP.NET Core 3.1 Console][csvimporter]: A.NET Core console solution in C# that reads a .CSV file stored in an Azure storage account and inserts its content into a local SQL Server DB.
 - 🥇 And other repositories.
 
 #### Trivia
+
 <!--- 📝 [I blog here:][blog-url]-->
+
 - 📫 Follow me on Twitter [@vladperchi][twitter-url] / [@codewithvladperchi][twitter-code-url]
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@vladperchi][linkedin-url]
 - 🦸 Career goal: Working abroad, probably in the United States / Europe with a world-class team for a great product!
-<br/>
+  <br/>
 
 <h1 align="center">Professional skills</h1>
 
@@ -57,12 +58,12 @@ I always find enough time for open source contribution which also helps me to ex
   <a href="https://www.typescriptlang.org">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
-  <!--<a href="https://hub.docker.com/">
+  <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>-->
-  <!--<a href="https://www.rabbitmq.com">
+  </a>
+  <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
-  </a>-->
+  </a>
   <a href="https://www.github.com">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
   </a>
@@ -77,9 +78,12 @@ I always find enough time for open source contribution which also helps me to ex
 </p>
 
 <!--highlight Repo-->
-[InmoIT]: https://github.com/vladperchi/InmoIT
-[CsvImporter]: https://github.com/vladperchi/CsvImporterDapper
+
+[inmoit]: https://github.com/vladperchi/InmoIT
+[csvimporter]: https://github.com/vladperchi/CsvImporterDapper
+
 <!--links-->
+
 [linkedin-url]: https://www.linkedin.com/in/vladperchi/
 [facebook-url]: https://www.facebook.com/codewithvladperchi
 [twitter-url]: https://twitter.com/vladperchi
