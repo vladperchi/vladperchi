@@ -73,9 +73,9 @@ I always find enough time for open source contribution which also helps me to ex
 </p>
 <br/>
 
-<p align="center">  
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vladperchi&show_icons=true&theme=tokyonight" alt="Vladperchi Github Stats" />
-</p>
+</p>-->
 
 <!--highlight Repo-->
 
