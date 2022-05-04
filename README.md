@@ -21,7 +21,7 @@
  </a>
 </p>
 
-> Software engineer specialized in building .NET web applications based in Cali, Colombia, proactive and creative. For frontend, I love to build WebApplication using Angular and MVC (Razor / Blazor). As for the backend, I work with ASP.NET Core WebAPIs and related Stack following Clean Architecture Principles and good coding practices.
+> Developer specialized in building .NET web applications, proactive and creative. For the interface, I love to create WebApplication using Angular and MVC (Razor/Blazor). As for the backend, I work with ASP.NET Core WebAPI and related Stack striving to learn how to write good software following clean architecture principles and good coding practices.
 
 #### 💻 Open Source Contributions
 
