@@ -25,7 +25,7 @@
 
 #### 💻 Open Source Contributions
 
-I always find enough time for open source contribution which also helps me to expand my knowledge and have the opportunity to work with other world-class developers and teams.
+> I always find enough time for open source contribution which also helps me to expand my knowledge and have the opportunity to work with other world-class developers and teams.
 
 - 💥 [InmoIT - ASP.NET Core 5.0 WebAPI Modular Architecture][inmoit]: A clean modular architecture implementation with ASP.NET Core 5 WebApi and loads of features and many best practices.
 - 💥 [CsvImporter - ASP.NET Core 3.1 Console][csvimporter]: A.NET Core console solution in C# that reads a .CSV file stored in an Azure storage account and inserts its content into a local SQL Server DB.
