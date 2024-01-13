@@ -21,7 +21,7 @@
  </a>
 </p>
 
-> Developer specialized in building .NET web applications, proactive and creative. For the interface, I love to create WebApplication using Angular and MVC (Razor/Blazor). As for the backend, I work with ASP.NET Core WebAPI and related Stack striving to learn how to write good software following clean architecture principles and good coding practices.
+> I am Vladimir, a dynamic professional with an excellent approach to creating solutions. Developer with years of experience in building .NET software and web applications, proactive, creative and trained, with a logical and solid understanding of the concepts, to analyze, evaluate and establish a win-win scenario in each project to be developed, assuming roles in work teams that allow me to grow personally and professionally by developing skills and perfecting efficiency through constant preparation and daily focus, thus allowing the performance of multiple tasks in management, architecture and design, development, testing and related stacks. Promoting innovation, always willing and committed, learning to write good software with better algorithms following clean architecture principles and good coding practices.
 
 #### 💻 Open Source Contributions
 
